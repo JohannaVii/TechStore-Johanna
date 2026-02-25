@@ -1,0 +1,49 @@
+2026-02-23 11:28:34,767 INFO  org.iths.techstore.TechStoreApplication - Starting TechStoreApplication using Java 24.0.2 with PID 17436 (C:\Users\korea\Documents\Javaverktyg\TechStore-Johanna\target\classes started by korea in C:\Users\korea\Documents\Javaverktyg\TechStore-Johanna)
+2026-02-23 11:28:34,801 INFO  org.iths.techstore.TechStoreApplication - The following 1 profile is active: "local"
+2026-02-23 11:28:48,561 INFO  org.iths.techstore.TechStoreApplication - Started TechStoreApplication in 15.598 seconds (process running for 17.676)
+2026-02-23 11:30:13,792 INFO  org.iths.techstore.Service.ReviewService - Get all reviews
+2026-02-23 11:31:21,254 INFO  org.iths.techstore.TechStoreApplication - Starting TechStoreApplication using Java 24.0.2 with PID 17436 (C:\Users\korea\Documents\Javaverktyg\TechStore-Johanna\target\classes started by korea in C:\Users\korea\Documents\Javaverktyg\TechStore-Johanna)
+2026-02-23 11:31:21,254 INFO  org.iths.techstore.TechStoreApplication - The following 1 profile is active: "local"
+2026-02-23 11:31:23,537 INFO  org.iths.techstore.TechStoreApplication - Started TechStoreApplication in 2.34 seconds (process running for 172.651)
+2026-02-23 11:31:34,756 INFO  org.iths.techstore.TechStoreApplication - Starting TechStoreApplication using Java 24.0.2 with PID 15112 (C:\Users\korea\Documents\Javaverktyg\TechStore-Johanna\target\classes started by korea in C:\Users\korea\Documents\Javaverktyg\TechStore-Johanna)
+2026-02-23 11:31:34,765 INFO  org.iths.techstore.TechStoreApplication - The following 1 profile is active: "local"
+2026-02-23 11:31:43,851 INFO  org.iths.techstore.TechStoreApplication - Started TechStoreApplication in 10.46 seconds (process running for 12.373)
+2026-02-23 11:32:36,751 INFO  org.iths.techstore.Service.ReviewService - Get all reviews
+2026-02-23 11:32:40,329 INFO  org.iths.techstore.Service.ReviewService - Get all reviews
+2026-02-23 11:35:29,499 INFO  org.iths.techstore.TechStoreApplication - Starting TechStoreApplication using Java 24.0.2 with PID 16856 (C:\Users\korea\Documents\Javaverktyg\TechStore-Johanna\target\classes started by korea in C:\Users\korea\Documents\Javaverktyg\TechStore-Johanna)
+2026-02-23 11:35:29,505 INFO  org.iths.techstore.TechStoreApplication - The following 1 profile is active: "local"
+2026-02-23 11:35:37,548 INFO  org.iths.techstore.TechStoreApplication - Started TechStoreApplication in 9.222 seconds (process running for 11.01)
+2026-02-23 11:35:52,699 INFO  org.iths.techstore.Service.ReviewService - Get all reviews
+2026-02-23 11:38:49,329 INFO  org.iths.techstore.Service.ReviewService - Get review with id 999
+2026-02-23 11:38:49,426 WARN  org.iths.techstore.Service.ReviewService - Review with id 999 not found
+2026-02-23 11:49:12,934 INFO  org.iths.techstore.Service.ReviewService - Get all reviews
+2026-02-23 11:50:18,352 INFO  org.iths.techstore.Service.ReviewService - Create review
+2026-02-23 11:50:18,352 INFO  org.iths.techstore.Validator.ReviewValidator - Validate review
+2026-02-23 11:50:18,497 INFO  org.iths.techstore.Service.ReviewService - Get review with id 1
+2026-02-23 11:57:27,013 INFO  org.iths.techstore.TechStoreApplication - Starting TechStoreApplication using Java 24.0.2 with PID 16856 (C:\Users\korea\Documents\Javaverktyg\TechStore-Johanna\target\classes started by korea in C:\Users\korea\Documents\Javaverktyg\TechStore-Johanna)
+2026-02-23 11:57:27,015 INFO  org.iths.techstore.TechStoreApplication - The following 1 profile is active: "local"
+2026-02-23 11:58:27,881 INFO  org.iths.techstore.TechStoreApplication - Starting TechStoreApplication using Java 24.0.2 with PID 16856 (C:\Users\korea\Documents\Javaverktyg\TechStore-Johanna\target\classes started by korea in C:\Users\korea\Documents\Javaverktyg\TechStore-Johanna)
+2026-02-23 11:58:27,881 INFO  org.iths.techstore.TechStoreApplication - The following 1 profile is active: "local"
+2026-02-23 11:58:30,106 INFO  org.iths.techstore.TechStoreApplication - Started TechStoreApplication in 2.262 seconds (process running for 1383.567)
+2026-02-23 11:58:37,952 INFO  org.iths.techstore.TechStoreApplication - Starting TechStoreApplication using Java 24.0.2 with PID 16856 (C:\Users\korea\Documents\Javaverktyg\TechStore-Johanna\target\classes started by korea in C:\Users\korea\Documents\Javaverktyg\TechStore-Johanna)
+2026-02-23 11:58:37,952 INFO  org.iths.techstore.TechStoreApplication - The following 1 profile is active: "local"
+2026-02-23 11:58:41,516 INFO  org.iths.techstore.TechStoreApplication - Starting TechStoreApplication using Java 24.0.2 with PID 16856 (C:\Users\korea\Documents\Javaverktyg\TechStore-Johanna\target\classes started by korea in C:\Users\korea\Documents\Javaverktyg\TechStore-Johanna)
+2026-02-23 11:58:41,519 INFO  org.iths.techstore.TechStoreApplication - The following 1 profile is active: "local"
+2026-02-23 11:58:44,845 INFO  org.iths.techstore.TechStoreApplication - Started TechStoreApplication in 3.488 seconds (process running for 1398.307)
+2026-02-23 12:00:26,143 INFO  org.iths.techstore.TechStoreApplication - Starting TechStoreApplication using Java 24.0.2 with PID 1136 (C:\Users\korea\Documents\Javaverktyg\TechStore-Johanna\target\classes started by korea in C:\Users\korea\Documents\Javaverktyg\TechStore-Johanna)
+2026-02-23 12:00:26,175 INFO  org.iths.techstore.TechStoreApplication - The following 1 profile is active: "local"
+2026-02-23 12:00:40,046 INFO  org.iths.techstore.TechStoreApplication - Started TechStoreApplication in 16.051 seconds (process running for 17.526)
+2026-02-23 12:00:43,718 INFO  org.iths.techstore.Service.ReviewService - Get all reviews
+2026-02-23 12:01:04,760 INFO  org.iths.techstore.Service.ReviewService - Create review
+2026-02-23 12:01:04,761 INFO  org.iths.techstore.Validator.ReviewValidator - Validate review
+2026-02-23 12:01:04,761 WARN  org.iths.techstore.Validator.ReviewValidator - Error. Review name is null
+2026-02-23 12:02:23,150 INFO  org.iths.techstore.Service.ReviewService - Get all reviews
+2026-02-23 12:03:45,023 INFO  org.iths.techstore.Service.ReviewService - Create review
+2026-02-23 12:03:45,023 INFO  org.iths.techstore.Validator.ReviewValidator - Validate review
+2026-02-23 12:03:45,024 WARN  org.iths.techstore.Validator.ReviewValidator - Review rating 999 is out of range
+2026-02-23 12:06:00,598 INFO  org.iths.techstore.Service.ReviewService - Get all reviews
+2026-02-23 12:06:53,997 INFO  org.iths.techstore.Service.ReviewService - Create review
+2026-02-23 12:06:53,997 INFO  org.iths.techstore.Validator.ReviewValidator - Validate review
+2026-02-23 12:06:54,095 INFO  org.iths.techstore.Service.ReviewService - Get review with id 1
+2026-02-25 09:53:05,764 INFO  org.iths.techstore.TechStoreApplication - Starting TechStoreApplication using Java 24.0.2 with PID 15920 (C:\Users\korea\Documents\Javaverktyg\TechStore-Johanna\target\classes started by korea in C:\Users\korea\Documents\Javaverktyg\TechStore-Johanna)
+2026-02-25 09:53:05,777 INFO  org.iths.techstore.TechStoreApplication - The following 1 profile is active: "local"
