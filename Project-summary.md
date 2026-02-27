@@ -49,6 +49,28 @@ All loggning sparas i techstore-johanna.log.
 Filen visar när recensioner hämtas - skapas - uppdateras - stöter på ett fel.
 Det underlättar felsökning.
 
+🤖
+Jenkins (VG)
+Jenkins-delen är skapat manuellt via Jenkins GUI.
+
+Källkod: Hämtad automatiskt från min GitHub-fork
+Bygget: Kör maven-kommandon mot H2 - en testdatabas som nollställs efter varje körning.
+
+Processen:
+
+- Klonar repot
+- Bygger med Maven Wrapper
+- Alla 79 tester körs
+- Skapar JAR-fil
+
+Resultatet:
+Tests run: 79, Failures: 0, Errors: 0
+BUILD SUCCESS
+
+Syftet:
+Visar att projektet kan byggas och testas utan ett programmeringsverktyg som intelliJ.
+Det ger en extra säkerhet att allt funkar innan driftsättning.
+
 ✅
 Tester
 (G) Enhetstester för Service - Testar alla metoder (Mockito)
@@ -116,9 +138,8 @@ Applikationen fungerar och ligger på Render. Testen är alla gröna, loggning f
 
 Det som varit mycket bra utöver koden är gruppen. Alla var punktliga, hade respekt för varandra och ställde upp när
 någon behövde hjälp. Speciellt Anwar som är mer kunnig drog ett stort lass.
-Vi alla ville jobba ihop på plats, vilket kändes väldigt bra för arbetet. Sammarbetet var toppen. När vi jobbade själva
-så tog alla ändå sitt ansvar. Kommunikationen var
-aktiv och flöt på genom hela projektet.
+Vi alla ville jobba ihop på plats, vilket kändes väldigt bra för arbetet. Samarbetet var toppen. När vi jobbade själva
+så tog alla sitt ansvar. Kommunikationen var alltid aktiv och flöt på genom hela projektet.
 
 Reflektion på sånt som kunde göras annorlunda: Tekniskt sett kunde vi ha kopplat ihop delarna ännu mer - till exempel
 låtit recensioner vara kopplade till specifika produkter, och sett till att leverantörer och kunder hängde ihop också.
@@ -133,6 +154,6 @@ kunna bättre, för att växa.
 Länkar
 Gruppens GitHub: https://github.com/iths-grupp/TechStore
 
-Appen på Render: https://techstore.onrender.com
+Appen på Render: https://techstore-1-0-0.onrender.com/
 
 Min fork (VG): https://github.com/JohannaVii/TechStore-Johanna
